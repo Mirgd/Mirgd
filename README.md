@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Maryam Magdy 👋
 
-<!--
-**Mirgd/Mirgd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fresh Computer Science Graduate | Junior AI Engineer | Generative AI & Data Enthusiast
 
-Here are some ideas to get you started:
+I am a 2025 Computer Science graduate based in Riyadh, interested in Generative AI, Multi-Agent AI Systems, Arabic AI Evaluation, Document Q&A, Data Analysis, and Machine Learning applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+
+- Programming: Python, SQL, JavaScript, Java, C++
+- AI/ML: Machine Learning, Deep Learning, NLP, Computer Vision
+- Generative AI: LangChain, OpenAI, Anthropic, Prompt Engineering
+- Data & Tools: Pandas, NumPy, Scikit-learn, TensorFlow, Keras, OpenCV
+- Apps & Deployment: Streamlit, Docker, APIs
+- Vector Databases: ChromaDB, Weaviate
+
+## Featured Projects
+
+### AI Decision Board
+A multi-agent AI workforce that analyzes strategic decisions from business, technical, financial, and risk perspectives to generate an executive recommendation.
+
+### LangChain RAG Document Q&A App
+A Retrieval-Augmented Generation app that allows users to ask questions based on custom documents using LangChain, ChromaDB, and Streamlit.
+
+### Face Mask Detection System
+A computer vision project using CNNs, TensorFlow, and OpenCV for real-time mask detection.
+
+## Currently Learning
+
+- Advanced Generative AI applications
+- RAG pipelines
+- Multi-agent AI systems
+- AI automation workflows
+
+## Connect with me
+
+- LinkedIn: https://linkedin.com/in/maryam-magdy-91056419a
+- GitHub: https://github.com/Mirgd

@@ -1,6 +1,6 @@
 # Hi, I'm Maryam Magdy 👋
 
-Computer Science Graduate | Junior AI Engineer | Generative AI & Data Enthusiast
+Computer Science Graduate | Junior AI Engineer | Generative AI & Multi-Agent AI Developer | Machine Learning Engineer
 
 I am a 2025 Computer Science graduate based in Riyadh, interested in Generative AI, Multi-Agent AI Systems, Arabic AI Evaluation, Document Q&A, Data Analysis, and Machine Learning applications.
 
@@ -21,8 +21,8 @@ A multi-agent AI workforce that analyzes strategic decisions from business, tech
 ### LangChain RAG Document Q&A App
 A Retrieval-Augmented Generation app that allows users to ask questions based on custom documents using LangChain, ChromaDB, and Streamlit.
 
-### Face Mask Detection System
-A computer vision project using CNNs, TensorFlow, and OpenCV for real-time mask detection.
+### CS GUIDE Platform
+Developed a full-stack educational platform for Computer Science students featuring course management, university services, and structured learning resources. Built using Node.js, Express.js, MongoDB, HTML, CSS, and JavaScript.
 
 ## Currently Learning
 

@@ -1,6 +1,6 @@
 # Hi, I'm Maryam Magdy 👋
 
-Fresh Computer Science Graduate | Junior AI Engineer | Generative AI & Data Enthusiast
+Computer Science Graduate | Junior AI Engineer | Generative AI & Data Enthusiast
 
 I am a 2025 Computer Science graduate based in Riyadh, interested in Generative AI, Multi-Agent AI Systems, Arabic AI Evaluation, Document Q&A, Data Analysis, and Machine Learning applications.
 
